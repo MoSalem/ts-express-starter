@@ -1,0 +1,19 @@
+{
+  "name": "ts-express-starter",
+  "version": "0.1.0",
+  "description": "Starter project with TS setup",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoSalem/ts-express-starter.git"
+  },
+  "author": "MoSalem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoSalem/ts-express-starter/issues"
+  },
+  "homepage": "https://github.com/MoSalem/ts-express-starter#readme"
+}
